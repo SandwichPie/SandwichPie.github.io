@@ -7,11 +7,20 @@ function pnt_data () {
 function pnt_entry () {
   echo "<p>"
   pnt_data $1 name | awk -v RS="" '{$1=$1} 1'
+  echo "</p>"
+  echo "<p>"
   pnt_data $1 catigory | awk -v RS="" '{$1=$1} 1'
+  echo "</p>"
+  echo "<p>"
   pnt_data $1 price
+  echo "</p>"
+  echo "<p>"
   pnt_data $1 tags | awk '{for (i = 0; i <= argc; ++i) print "#" $i}' | awk -v RS="" '{$1=$1} 1'
+  echo "</p>"
+  echo "<p>"
   pnt_data $1 url | awk '{for (i = 0; i <= argc; ++i) print "<a href=\"" $1 "\">" $1 "</a>"}'
   echo "</p>"
+  echo "<hr>"
 }
 
 function check_file () {
