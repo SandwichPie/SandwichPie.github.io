@@ -2,29 +2,99 @@ name Anatomy Quick Tips: Ears
 files head
 catigory video
 price free
-tags youtube tutorials anatomy ears
-url https://www.youtube.com/watch?v=IVbqoy_JEV0&list=PLflflDShjUKH4EfZyf0vuKEuqeqvlV0Qd&index=1
+tags youtube tutorials anatomy ears human
+url https://www.youtube.com/watch?v=IVbqoy_JEV0
 #
 name Anatomy Quick Tips: Knees
 files muscles bones
 catigory video
 price free
-tags youtube tutorials anatomy legs knees
-url https://www.youtube.com/watch?v=IVbqoy_JEV0&list=PLflflDShjUKH4EfZyf0vuKEuqeqvlV0Qd&index=2
+tags youtube tutorials anatomy legs knees human
+url https://www.youtube.com/watch?v=FN94kc7VHns
 #
 name Anatomy Quick Tips: Feet
 files muscles bones
 catigory video
 price free
-tags youtube tutorials anatomy feet
-url https://www.youtube.com/watch?v=IVbqoy_JEV0&list=PLflflDShjUKH4EfZyf0vuKEuqeqvlV0Qd&index=3
+tags youtube tutorials anatomy feet human
+url https://www.youtube.com/watch?v=05fn1DlFRtY
 #
-name anatomy quick tips: skulls
+name Anatomy Quick Tips: Abs
+files muscles
+catigory video
+price free
+tags youtube tutorials anatomy abs torso human
+url https://www.youtube.com/watch?v=xCfkX-cVIG4
+#
+name Anatomy Quick Tips: Shoulders
+files muscles bones
+catigory video
+price free
+tags youtube tutorials anatomy shoulders arms torso human
+url https://www.youtube.com/watch?v=CGBvbYEtwH8
+#
+name Anatomy Quick Tips: Hands
+files muscles bones hands
+catigory video
+price free
+tags youtube tutorials anatomy hands human
+url https://www.youtube.com/watch?v=hzl3eaxAJpo
+#
+name Anatomy Quick Tips: Noses
+files head
+catigory video
+price free
+tags youtube tutorials anatomy nose human
+url https://www.youtube.com/watch?v=_HDyk4dy7kc
+#
+name Anatomy Quick Tips: Mouths
+files head
+catigory video
+price free
+tags youtube tutorials anatomy mouth human
+url https://www.youtube.com/watch?v=EdLBGJ4wjFA
+#
+name Anatomy Quick Tips: Eyes
+files head
+catigory video
+price free
+tags youtube tutorials anatomy eyes human
+url https://www.youtube.com/watch?v=LIykey9umVk
+#
+name Anatomy Quick Tips: Backs
+files muscles bones
+catigory video
+price free
+tags youtube tutorials anatomy human
+url https://www.youtube.com/watch?v=RBSXYdfrZ2c
+#
+name Anatomy Quick Tips: Hair
+files head fur
+catigory video
+price free
+tags youtube tutorials anatomy hair human
+url https://www.youtube.com/watch?v=88khFjZwkl0
+#
+name anatomy quick tips: Necks
+files muscles bones head
+catigory video
+price free
+tags youtube tutorials anatomy neck human
+url https://www.youtube.com/watch?v=un90_dt4ix0
+#
+name anatomy quick tips: Skulls
 files head bones
 catigory video
 price free
-tags youtube tutorials anatomy skull
-url https://www.youtube.com/watch?v=ivbqoy_jev0&list=plflfldshjukh4efzyf0vukeuqeqvlv0qd&index=14
+tags youtube tutorials anatomy skull human
+url https://www.youtube.com/watch?v=MWwYjyIKrA8
+#
+name anatomy quick tips: Skin
+files unsorted
+catigory video
+price free
+tags youtube tutorials anatomy skin human
+url https://www.youtube.com/watch?v=V_E1ARR_AAg
 #
 name Design Theory: Visual Library
 files vislib
@@ -53,4 +123,53 @@ catigory video
 price free
 tags youtube tutorials design
 url https://www.youtube.com/watch?v=hDK-PGgvWC0
+#
+name Anatomy Quick Tips
+files courses
+catigory video
+price free
+tags youtube tutorials course anatomy human
+url https://www.youtube.com/watch?v=hDK-PGgvWC0
+#
+name PERSPECTIVE BASICS: mirroring planes and curves
+files perspective forms
+catigory video
+price free
+tags youtube tutorials perspective forms
+url https://www.youtube.com/watch?v=O1tv-6JURJ4
+#
+name One Point Perspective for Beginners
+files perspective
+catigory video
+price free
+tags youtube tutorials perspective
+url https://www.youtube.com/watch?v=nAlCyQqEZSU
+#
+name PERSPECTIVE BASICS III: ELLIPSES
+files perspective
+catigory video
+price free
+tags youtube tutorials perspective
+url https://www.youtube.com/watch?v=5gBpf47phh0
+#
+name PERSPECTIVE pt. 4: Rounding Forms, angled planes, and product skeches
+files perspective forms
+catigory video
+price free
+tags youtube tutorials forms perspective
+url https://www.youtube.com/watch?v=03IrOGkbaZc
+#
+name PERSPECTIVE 5: Rotation and Camera Lenses
+files perspective
+catigory video
+price free
+tags youtube tutorials perspective
+url https://www.youtube.com/watch?v=2XF5YuAK63I
+#
+name PERSPECTIVE 6: TILTING FORMS, TWISTING PLANES, ORGANICS
+files perspective forms
+catigory video
+price free
+tags youtube tutorials forms perspective
+url https://www.youtube.com/watch?v=FF8XgTQmoPg
 #

@@ -38,6 +38,9 @@ function gen_file () {
   echo "<html>"
   echo "<body>"
   echo ""
+  echo "<a href=\"https://SandwichPie.github.io\">Home</a>"
+  echo "<hr>"
+  echo ""
   for i in $(seq $(( $(cat data.db | wc -l) / 7 )))
   do
   cat data.db | head -$(( (7*$i)-1 )) | tail +$(( (7*($i-1))+1 )) > tmp
@@ -71,3 +74,7 @@ gen_file muscles > topics/muscles.html
 gen_file rendering > topics/rendering.html
 gen_file shape > topics/shape.html
 gen_file vislib > topics/vislib.html
+gen_file hands > topics/hands.html
+gen_file fur > topics/fur.html
+gen_file courses > topics/courses.html
+gen_file perspective > topics/perspective.html
